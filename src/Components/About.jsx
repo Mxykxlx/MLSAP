@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/about.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Bulacan State University IT Major excels in Web and Mobile App Development who earned a prestigious role as a Microsoft Learn Student Ambassador.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Mobile Application Development",
+  "Web Development",
+  "Game Development",
+  "Mobile User Interfaces",
+  "Responsive Design",
+  "Testing & Debugging",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am deeply passionate about all things that are tech-related, with a particular focus on mobile development. The dynamic and ever-evolving world of mobile apps fascinates me, and I thrive on staying at the cutting edge of this field.";
 
 const About = () => {
   return (
