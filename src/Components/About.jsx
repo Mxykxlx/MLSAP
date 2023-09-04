@@ -57,6 +57,7 @@ const About = () => {
           width: "50%",
           padding: "4rem",
           margin: "3rem auto",
+          borderRadius: "15px",
           textAlign: "center",
         }}
       >
