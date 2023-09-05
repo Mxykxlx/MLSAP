@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Michaella Shylle Ong",
-  title: "Microsoft Learn Student Ambassador",
+  title: "",
   email: "MichaellaShylle.Ong@studentambassadors.com",
   gitHub: "Mxykxlx",
   instagram: "mxykxlx",
