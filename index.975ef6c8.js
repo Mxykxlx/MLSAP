@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Michaella Shylle Ong",
-    title: "Microsoft Learn Student Ambassador",
+    title: "",
     email: "MichaellaShylle.Ong@studentambassadors.com",
     gitHub: "Mxykxlx",
     instagram: "mxykxlx",
@@ -28643,9 +28643,10 @@ const Home = ({ name , title  })=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 style: {
                     position: "absolute",
-                    top: "5rem",
+                    top: "15rem",
                     left: "2rem",
-                    width: "23rem"
+                    width: "23rem",
+                    color: "white"
                 },
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
