@@ -28761,14 +28761,14 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "A Simple Mobile App Project",
+        title: "Simple Mobile App Project",
         description: "A LogIn/Register application using intent. It also have a recycler view where the user can view, add, edit or delete the existing data.",
         url: "https://github.com/Mxykxlx/FinalProject-IT307.git"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "Pokedex",
+        description: "A simple android-based mobile app designed for searching characters in Pokemon.",
+        url: "https://github.com/Mxykxlx/Pokedex.git"
     },
     {
         title: "My Resume Site",
