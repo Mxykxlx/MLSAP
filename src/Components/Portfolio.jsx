@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/Mxykxlx/Pokedex.git",
   },
   {
-    title: "My Resume Site",
+    title: "My E-Portfolio Activity",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a site for my Foreign Language subject where I have stored all my activities and projects.",
+    url: "https://sites.google.com/bulsu.edu.ph/michaellashylle/home",
   },
   {
     title: "GitHub Codespaces and github.dev",
