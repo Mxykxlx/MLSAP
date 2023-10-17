@@ -55,7 +55,7 @@ const projectList = [
   },
 ];
 
-import background from "../images/pfbg.jpg";
+import background from "../images/123.jpg";
 
 const Portfolio = () => {
   return (
@@ -69,7 +69,7 @@ const Portfolio = () => {
         backgroundRepeat: "no-repeat",
       }}
     >
-      <h2 style={{ textAlign: "center" }}>Portfolio</h2>
+      <h2 style={{ textAlign: "center", color: "white", fontWeight: "bold" }}>Portfolio</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
@@ -82,9 +82,12 @@ const Portfolio = () => {
           {projectList.map((project) => (
             <div className="box" key={project.title}>
               <a href={project.url} target="_blank" rel="noopener noreferrer">
-                <h3 style={{ flexBasis: "40px" }}>{project.title}</h3>
+                <h3 style={{ flexBasis: "40px", color: "white", fontWeight: "bold" }}>
+                  {project.title}
+                </h3>
               </a>
-              <p className="small">{project.description}</p>
+              <p className="small" style={{ color: "white" }}>
+                {project.description}</p>
             </div>
           ))}
         </div>
