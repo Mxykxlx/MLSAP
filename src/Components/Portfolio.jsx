@@ -38,8 +38,7 @@ const projectList = [
   },
   {
     title: "Pokedex",
-    description:
-      "A simple android-based mobile app designed for searching characters in Pokemon.",
+    description: "A simple android-based mobile app designed for searching characters in Pokemon.",
     url: "https://github.com/Mxykxlx/Pokedex.git",
   },
   {
@@ -60,13 +59,16 @@ import background from "../images/pf.jpg";
 
 const Portfolio = () => {
   return (
-    <section className="padding" id="portfolio" style={{
-      backgroundImage: `url(${background})`,
-      backgroundSize: "cover",
-      backgroundPosition: "center",
-      backgroundRepeat: "no-repeat",
-    }}
->
+    <section
+      className="padding"
+      id="portfolio"
+      style={{
+        backgroundImage: `url(${background})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+      }}
+    >
       <h2 style={{ textAlign: "center" }}>Portfolio</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
