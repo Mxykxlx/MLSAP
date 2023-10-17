@@ -55,7 +55,7 @@ const projectList = [
   },
 ];
 
-import background from "../images/pf.jpg";
+import background from "../images/pfbg.jpg";
 
 const Portfolio = () => {
   return (
