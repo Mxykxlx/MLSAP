@@ -62,7 +62,9 @@ const About = () => {
         }}
       >
         <h2>About Myself</h2>
-        <p className="large">{description}</p>
+        <p className="large" style={{ textAlign: "justify" }}>
+          {description}
+        </p>
         <hr />
         <ul
           style={{
@@ -78,7 +80,7 @@ const About = () => {
           ))}
         </ul>
         <hr />
-        <p style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
+        <p style={{ padding: "1rem 3rem 0", textAlign: "justify" }}>{detailOrQuote}</p>
       </div>
     </section>
   );
