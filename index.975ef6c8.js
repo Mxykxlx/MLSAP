@@ -27187,7 +27187,7 @@ const imageAltText = "";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Mobile Application Development",
+    "Mobile Development",
     "Web Development",
     "Game Development",
     "Mobile User Interfaces",
