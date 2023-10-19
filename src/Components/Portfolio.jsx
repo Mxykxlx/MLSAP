@@ -48,9 +48,9 @@ const projectList = [
     url: "https://flportfolio.z20.web.core.windows.net",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Digi-Art Activities",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "A simple gallery showcasing my past activities in the subject Interactive Systems and Technologies.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
