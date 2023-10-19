@@ -50,7 +50,7 @@ const projectList = [
   {
     title: "Digital Art Activities",
     description:
-      "A simple gallery showcasing my past activities in the subject Interactive Systems and Technologies.",
+      "A simple gallery showcasing some of my past digital art activities in the subject Interactive Systems and Technologies.",
     url: "https://htmlp.z13.web.core.windows.net",
   },
 ];
