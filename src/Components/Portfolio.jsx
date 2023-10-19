@@ -48,10 +48,10 @@ const projectList = [
     url: "https://flportfolio.z20.web.core.windows.net",
   },
   {
-    title: "Digi-Art Activities",
+    title: "Digital Art Activities",
     description:
       "A simple gallery showcasing my past activities in the subject Interactive Systems and Technologies.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://htmlp.z13.web.core.windows.net",
   },
 ];
 
