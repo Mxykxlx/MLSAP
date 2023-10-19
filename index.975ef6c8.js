@@ -28779,7 +28779,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "My E-Portfolio Activity",
         description: "Created a site for my Foreign Language subject where I have stored all my activities and projects.",
-        url: "https://sites.google.com/bulsu.edu.ph/michaellashylle/home"
+        url: "https://flportfolio.z20.web.core.windows.net"
     },
     {
         title: "GitHub Codespaces and github.dev",
