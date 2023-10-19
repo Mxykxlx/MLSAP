@@ -28782,9 +28782,9 @@ const imageAltText = "desktop with books and laptop";
         url: "https://flportfolio.z20.web.core.windows.net"
     },
     {
-        title: "GitHub Codespaces and github.dev",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-        url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
+        title: "Digital Art Activities",
+        description: "A simple gallery showcasing some of my past digital art activities in the subject Interactive Systems and Technologies.",
+        url: "https://htmlp.z13.web.core.windows.net"
     }, 
 ];
 const Portfolio = ()=>{
