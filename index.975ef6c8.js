@@ -28784,7 +28784,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "Digital Art Activities",
         description: "A simple gallery showcasing some of my past digital art activities in the subject Interactive Systems and Technologies.",
-        url: "https://htmlp.z13.web.core.windows.net"
+        url: "https://209portfolio.z20.web.core.windows.net"
     }, 
 ];
 const Portfolio = ()=>{
